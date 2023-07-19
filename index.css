@@ -62,7 +62,7 @@ color: rgb(0, 2, 118);
         display:flex;
         flex-direction: column;
         align-items: center;
-        
+        margin:37px 240px;
     }
     .head1{
         display: flex;
@@ -141,38 +141,3 @@ background-color:  #fa76ba;
 
 
 
-.play{
-    display: flex;
-    grid-template-columns: repeat(2, 1fr);
-    background: #FFF;
-    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
-}
-.play-content{
-
-    background-image: url('images/Group 14.png');
-    background-repeat: no-repeat;
-    padding: 148px 309px 148px 244px;
-    text-align: left;
-}
-.play-tittle{
-    color: #0B0223;
-    font-size: 3rem;
-}
-.play-head{
-    font-size: 6rem;
-    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    margin-bottom: 24px;
-}
-
-.play-option{
-    margin-bottom: 17px;
-    align-items: center;
-}
-.go-rogue{
-    background: #4EC5F7;
-    margin-left: 24px;
-}
-Write to Md Ali Islam
