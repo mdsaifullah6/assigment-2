@@ -4,7 +4,7 @@
 .header-main-div{
     display: flex;
     justify-content: space-between;
-    
+    margin:37px 240px;
     border: none;
     margin-top: 5px;
     
@@ -62,7 +62,7 @@ color: rgb(0, 2, 118);
         display:flex;
         flex-direction: column;
         align-items: center;
-        margin:37px 240px;
+        
     }
     .head1{
         display: flex;
