@@ -2,11 +2,12 @@
     font-family: 'Open Sans', sans-serif;
 }
 .header-main-div{
+    width: auto;
     display: flex;
     justify-content: space-between;
-    margin:37px 240px;
+    padding:auto;
     border: none;
-    margin-top: 5px;
+    
     
 }
 
@@ -103,7 +104,7 @@ color: rgb(0, 2, 118);
 
 .play-like-the{
 font-size: 48px;
-font-weight: 500;
+font-weight: 700;
 
 }
 /* .main-click{
@@ -115,7 +116,7 @@ font-weight: 500;
 .goat{
     /* text-align: center; */
 font-size: 95px;
-font-weight: 700;
+font-weight: 800;
 background: linear-gradient( #ff0634 30%, #4e07f5);
 background-clip: text;
 -webkit-background-clip: text;
