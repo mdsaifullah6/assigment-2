@@ -268,3 +268,129 @@ text-align: justify;
     height: auto;
     
 }
+
+.inside-play-instantly p{
+    text-align: right;
+}
+.style-play-instantly{
+    background: linear-gradient( #dd0152 30%, #016d19);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.main-div-playinstantly{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 245px;
+}
+.inside-play-instantly
+ h1{
+    font-size: 58px;
+    text-align: center;
+}
+.play-img1{
+    position: relative;
+    margin: 0;
+    left: 300px;
+    top: 150px;
+    border-radius: 8px;
+    border: 10px solid rgb(234, 227, 227);
+   
+}
+.play-img2{
+    position: relative;
+    margin: 0;
+    left: 200px;
+    top: 00px;
+    
+}
+
+/* copy play instantly */
+
+
+.main-div-button{
+    color: rgb(174, 31, 93);
+    border: 1px solid rgb(240, 14, 112);
+    cursor: pointer;
+}
+.main-div-button{
+    display: flex;
+    flex-wrap: wrap;
+    gap:24px;
+    justify-content: center;
+    padding: 120px 249px;
+}
+.main-div-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    border-radius: 50px;
+    background: white;
+    font-size: 20px;
+    gap: 10px;
+    padding: 10px;
+}
+/* footer */
+
+.icons{
+    width: 2rem;
+}
+.policy-tag li{
+    list-style: none;
+
+    
+}
+
+.gamers-logo{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+.main-footer{
+    background: #0B0223;
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+    padding: 130px 553px;
+    
+}
+.nav ul{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+
+.icon{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-bottom: 74px
+}
+.policy-tag ul{
+    display: flex;
+    color: rgb(6, 39, 147);
+    font-size: 1.2rem;
+    margin-bottom: 18px;
+    font-weight: 500;
+    gap: 60px;
+    
+}
+
+.nav li{
+    list-style: none;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #8efad6;
+    margin-bottom: 56px;
+}
+.copyright{
+    text-align: center;
+}
+.copyright a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.60);
+    font-size: 1rem;
+    font-weight: 500;
+}
