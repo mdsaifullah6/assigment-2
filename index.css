@@ -255,8 +255,8 @@ line-height: normal;}
 }
 .img-section-head{
 display: flex;
-gap: 20px;
 align-items:center;
+gap: 20px;
 text-align: justify;
 justify-content: center;
 
@@ -271,6 +271,9 @@ justify-content: center;
     top: 200px;
     
 }
+.img-watch-now{
+    width: 48px;
+}
 .section3{
         position: relative;
         bottom: 460px;
@@ -279,11 +282,11 @@ justify-content: center;
         justify-content: center;
         align-items: center;
         width: 340px;
-        height: 400px;
-        background: rgba(0, 0, 0, 0.5);
+        height: 394px;
+        background: rgba(0, 0, 0, 0.231);
         border: rgba(0, 0, 0, 0.5);
         border-radius: 15px;
-        color: #F948B2; 
+        color: #70144b; 
 }
 .inside-play-instantly p{
     text-align: right;
